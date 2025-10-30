@@ -1,0 +1,10 @@
+﻿# Visual Studio & build
+.vs/
+*.user
+*.suo
+*.sqlite
+bin/
+obj/
+
+# Editor files
+.vscode/

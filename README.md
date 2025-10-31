@@ -5,7 +5,7 @@
 **Focus Areas:** C#, .NET, SQL, Power Automate, Python (Automation)
 
 This repository will track my learning progress, small projects, and job preparation work.
-## Tools I Am Using
+## Tools I Am Usings
 - Visual Studio 2022
 - GitHub Desktop
 - .NET 8 SDK

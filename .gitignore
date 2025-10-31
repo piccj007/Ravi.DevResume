@@ -1,4 +1,6 @@
-﻿## Build and runtime artifacts
+﻿# Updated .gitignore for Visual Studio and .NET cleanup practice
+
+## Build and runtime artifacts
 bin/
 obj/
 out/
